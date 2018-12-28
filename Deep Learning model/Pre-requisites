@@ -1,0 +1,11 @@
+Pre-requisites  : 
+	1) Install Anaconda from here : https://www.anaconda.com/download/ 
+		 
+	2) Install CNTK from here:  https://docs.microsoft.com/en-us/cognitive-toolkit/setup-cntk-on-your-machine 
+		a) pip install cntk (recommended)
+			OR
+		b) any other way mentioned in the above page
+					       
+	3) Install scikit learn package :
+		a) pip install -U scikit-learn   or b) conda install scikit-learn
+
